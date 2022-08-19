@@ -62,8 +62,15 @@ export default function Weather() {
           </div>
 
           <div class="weather-forecast" id="forecast"></div>
+          <a
+            href="https://github.com/Cjenae7/Code-Sandbox-React-Project"
+            target="_blank"
+          >
+            Open-source Code by C.S
+          </a>
         </div>
       </div>
     </div>
   );
 }
+/*https://github.com/Cjenae7/Code-Sandbox-React-Project*/
